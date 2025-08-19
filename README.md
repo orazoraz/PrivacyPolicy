@@ -1,5 +1,4 @@
 # PrivacyPolicy
-# Privacy Policy for MivoAi
 
 **Last Updated:** August 19, 2025
 
