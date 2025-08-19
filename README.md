@@ -1,145 +1,156 @@
 # PrivacyPolicy
+# Privacy Policy for MivoAi
 
 **Last Updated:** August 19, 2025
 
-## Overview
+## Data Collection and Usage
 
-MivoAi is committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how our application handles data and what information we collect, use, or share.
+### What Data We Collect
+**MivoAi collects NO personal data whatsoever.** Our application operates with a zero-data collection policy:
+- We do not collect any personal information
+- We do not collect usage data or analytics
+- We do not collect device identifiers
+- We do not collect location information
+- We do not create user profiles or accounts
 
-## Information We Collect
+### How We Collect Data
+Since we collect no data, there are no data collection methods employed by our application.
 
-### Microphone Access
+### Data Usage
+As no data is collected, there is no data usage by our application or any associated parties.
 
-- **Purpose**: Our app may request access to your device’s microphone solely for voice input functionality within the application
-- **User Control**: Microphone access is only activated when explicitly requested by you and with your explicit permission
-- **No Recording**: We do not record, store, or transmit any audio data from your microphone
-- **Local Processing**: Any voice input processing occurs locally on your device only
+## Third-Party Data Sharing
 
-### Data We DO NOT Collect
+### No Third-Party Access
+- **Analytics Tools**: We do not use any analytics tools (Google Analytics, Firebase, etc.)
+- **Advertising Networks**: We do not integrate with any advertising networks
+- **Third-Party SDKs**: We do not use any third-party SDKs that collect user data
+- **Parent/Subsidiary Companies**: No related organizations have access to user data as none is collected
+- **Payment Processors**: Payment data is handled directly by secure processors and never accessed by us
 
-- We do not collect, store, or transmit any personal information
-- We do not access your camera
-- We do not access your contacts, photos, or other personal files
-- We do not collect location data
-- We do not track your browsing habits or app usage patterns
-- We do not collect device identifiers or advertising IDs
-- We do not require account registration or personal information
+### Third-Party Protection Commitment
+Since we collect no user data, there is no data to share with third parties. Any payment processing is handled entirely by certified payment processors who maintain their own privacy and security standards.
 
-## Data Transmission and Storage
+## Data Retention and Deletion Policy
 
-### No Data Transmission
+### Data Retention
+- **Retention Period**: Not applicable - no data is retained
+- **Local Data**: Any temporary data created during app use is automatically deleted when the app closes
+- **No Server Storage**: We maintain no servers or databases containing user information
 
-- **Zero Data Collection**: Our app does not collect, store, or transmit any personal data to our servers or third parties
-- **Local Operation**: All app functionality operates locally on your device
-- **No Analytics**: We do not use analytics services that collect user data
-- **No Advertising**: We do not display advertisements or work with advertising networks
+### Data Deletion
+- **User Request**: Since no data is collected, there is no data to delete upon user request
+- **Account Deletion**: No accounts are created, so no account deletion is necessary
+- **App Uninstallation**: Uninstalling the app removes any temporary local files
 
-### WebView Content
+### Consent Withdrawal
+Users can withdraw consent at any time by:
+- Revoking app permissions in device settings
+- Uninstalling the application
+- Since no data is collected, withdrawal of consent is immediately effective
 
-- The app displays web content through a WebView component
-- Any interactions with web content are governed by the privacy policies of those respective websites
-- We do not intercept, monitor, or store data from your web interactions
-
-## Permissions
+## Permissions and User Consent
 
 ### Microphone Permission
+- **Purpose**: Optional voice input functionality only
+- **User Control**: Requested only when user attempts to use voice features
+- **Consent Required**: Always requires explicit user permission
+- **Withdrawal**: Can be revoked anytime through device settings
+- **No Recording**: Audio is processed locally and never recorded or stored
+- **Alternative Options**: App functions fully without microphone access
 
-- **Optional**: Microphone access is completely optional and not required for basic app functionality
-- **Explicit Consent**: We will always ask for your explicit permission before accessing the microphone
-- **Easy to Revoke**: You can revoke microphone permissions at any time through your device settings
-- **No Background Access**: We never access the microphone when the app is in the background
+### Clear Permission Descriptions
+Our permission request strings clearly state:
+- "Microphone access is requested for voice input features only. Audio is processed locally and never recorded or transmitted."
 
-### No Other Permissions Required
+### GDPR Compliance
+We do not rely on legitimate interests for data processing as we collect no data. Our app operates without any data collection, ensuring full GDPR compliance.
 
-- We do not request access to your camera
-- We do not request access to your photo library
-- We do not request access to your location
-- We do not request access to your contacts or calendar
+## Data Minimization
 
-## Third-Party Services
+### Minimal Data Approach
+- We request access only to essential device features (optional microphone for voice input)
+- We collect zero personal information
+- We use device-native tools (payment processors) instead of collecting payment information ourselves
+- We do not request access to photos, contacts, location, or other sensitive resources
 
-### Payment Processing
+### Alternative Access Methods
+- Payment processing uses secure, external processors
+- Voice input is entirely optional with manual input alternatives
+- No personal information is required for any app functionality
 
-- For payment transactions, we use secure, industry-standard payment processors
-- Payment data is handled directly by these processors and never stored on our servers
-- We comply with PCI DSS standards for payment security
-- No payment information is retained after transaction completion
+## Account and Login Requirements
 
-### No Third-Party Analytics
+### No Account Required
+- **Full Functionality**: MivoAi operates completely without user accounts
+- **No Login**: No sign-in or registration process exists
+- **No Personal Information**: App functions without requiring any personal details
+- **No Social Media Integration**: We do not integrate with or require social media accounts
 
-- We do not use Google Analytics, Facebook Analytics, or similar services
-- We do not share data with social media platforms
-- We do not use crash reporting services that collect personal data
+### No Credential Storage
+- No user credentials are stored on device or remotely
+- No social media tokens or credentials are maintained
+- No authentication data is processed or retained
 
-## Children’s Privacy
+## User Privacy Rights
 
-Our app is designed to be safe for users of all ages:
+### Respect for User Settings
+- We honor all device permission settings
+- We do not attempt to circumvent or manipulate user privacy choices
+- We do not repeatedly request denied permissions
+- We provide full functionality even when optional permissions are denied
 
-- We do not knowingly collect information from children under 13
-- No personal information is collected from any users regardless of age
-- Parents can safely allow children to use the app without privacy concerns
+### No Deceptive Practices
+- We never collect passwords or personal data covertly
+- All app functionality is transparent and clearly explained
+- We do not track users without knowledge and consent
 
-## Data Security
+### SafariViewController Usage
+- When displaying web content, we use SafariViewController appropriately
+- Web views are always visible and not hidden behind other interfaces
+- We do not use web views for user tracking
 
-### Local Security
+## Regulated Services Compliance
 
-- All app data remains on your device
-- We use industry-standard security measures to protect app functionality
-- No sensitive data is transmitted over networks
+### Financial Services
+As MivoAi includes payment functionality, this application is submitted by a registered legal entity capable of providing financial services, not an individual developer.
 
-### No Data Breaches Possible
+### Geographic Restrictions
+Our payment services comply with local financial regulations in all jurisdictions where the app is available.
 
-- Since we don’t collect or store personal data, there is no risk of data breaches involving your personal information
+## Children's Privacy Protection
 
-## Your Rights and Controls
+### No Data Collection from Minors
+- We collect no data from users of any age, including children under 13
+- No personal information is ever requested from any user
+- The app is safe for children as no data collection occurs
 
-### Complete Control
+## Contact Information for Privacy Inquiries
 
-- You have complete control over all app permissions
-- You can revoke any permissions at any time through device settings
-- Uninstalling the app removes all local data
+**Privacy Contact Email**: privacy@mivoai.com
+**Response Time**: Within 48 hours for privacy-related inquiries
 
-### No Opt-Out Needed
+## Changes to This Privacy Policy
 
-- Since we don’t collect data, there’s no need to opt-out of data collection
-- No accounts to delete or data removal requests necessary
+### Notification Process
+- Users will be notified of material changes through app updates
+- The "Last Updated" date reflects the most recent version
+- Continued app use constitutes acceptance of policy updates
 
-## Geographic Compliance
+## Apple App Store Compliance Summary
 
-This app complies with privacy regulations worldwide, including:
+This privacy policy addresses all Apple App Store requirements:
+- ✅ Clearly identifies what data is collected (none)
+- ✅ Explains data collection methods (not applicable)
+- ✅ Details data usage (not applicable)
+- ✅ Confirms third-party data protection (no third-party sharing)
+- ✅ Explains retention and deletion policies
+- ✅ Describes user consent and withdrawal processes
+- ✅ Demonstrates data minimization principles
+- ✅ Confirms no deceptive data collection practices
+- ✅ Addresses account requirements (none needed)
+- ✅ Submitted by appropriate legal entity for financial services
 
-- GDPR (European Union)
-- CCPA (California, USA)
-- PIPEDA (Canada)
-- Other applicable privacy laws
+## Privacy-First Design
 
-## Changes to This Policy
-
-- We will notify users of any material changes to this privacy policy
-- The “Last Updated” date will be modified when changes are made
-- Continued use of the app constitutes acceptance of privacy policy updates
-
-## Contact Information
-
-If you have questions about this Privacy Policy or our privacy practices:
-
-**Email**: privacy@mivoai.com
-**Subject Line**: Privacy Policy Inquiry
-
-## Apple App Store Compliance
-
-This privacy policy has been created to comply with Apple App Store guidelines:
-
-- We clearly state what data we collect (none)
-- We explain the purpose of requested permissions (microphone for voice input only)
-- We confirm no data is shared with third parties
-- We ensure user privacy and data protection
-
-## Summary
-
-**What we collect**: Nothing
-**What we share**: Nothing  
-**What we store**: Nothing
-**Your privacy**: Completely protected
-
-MivoAi is designed with privacy-first principles. We believe the best way to protect your privacy is simply not to collect your data in the first place.
+**Our Commitment**: MivoAi is built on privacy-by-design principles. We believe the best way to protect user privacy is to not collect user data at all. This policy reflects our zero-data-collection approach, ensuring maximum user privacy protection.
